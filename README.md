@@ -1,7 +1,9 @@
 OS：CentOS 7
 
 DOWNLOAD https://mobaxterm.mobatek.net/ ĐỂ KẾT NỐI SSH.
-
+LINK TOOL:
+LINK SOURCE CÀI THỦ CÔNG:
+LINK CentOS ĐÃ CÀI ĐẦY ĐỦ:
 DOWNLOAD AAPANEL.
 - yum install -y wget && wget -O install.sh http://www.aapanel.com/script/install_6.0_en.sh && bash install.sh
 
