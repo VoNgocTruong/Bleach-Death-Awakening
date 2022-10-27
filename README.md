@@ -69,7 +69,7 @@ START SERVER GAME
 - cd /data/ss/public && sh start.sh start
 - cd /data/ss/server && sh start.sh start
 
-STOPSERVER GAME
+STOP SERVER GAME
 
 - cd /data/ss/public && sh start.sh stop
 - cd /data/ss/server && sh start.sh stop
